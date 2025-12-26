@@ -1,0 +1,15 @@
+2025-12-26T10:38:45.002158381+07:00 ERROR belajar_rust_logging::tests2 - This is an error
+2025-12-26T10:38:45.002252413+07:00 WARN belajar_rust_logging::tests2 - This is a warning
+2025-12-26T10:40:26.114908411+07:00 ERROR belajar_rust_logging::tests - This is an error
+2025-12-26T10:40:26.115006052+07:00 WARN belajar_rust_logging::tests - This is a warning
+2025-12-26T10:40:26.115026613+07:00 INFO belajar_rust_logging::tests - This is a info
+2025-12-26T10:40:33.615943068+07:00 ERROR belajar_rust_logging::tests - This is an error
+2025-12-26T10:40:33.616047080+07:00 WARN belajar_rust_logging::tests - This is a warning
+2025-12-26T10:40:33.616066131+07:00 INFO belajar_rust_logging::tests - This is a info
+2025-12-26T10:41:11.125409120+07:00 ERROR belajar_rust_logging::tests - This is an error
+2025-12-26T10:41:11.125510952+07:00 WARN belajar_rust_logging::tests - This is a warning
+2025-12-26T10:41:11.125527802+07:00 INFO belajar_rust_logging::tests - This is an info
+2025-12-26T10:41:18.454134712+07:00 ERROR belajar_rust_logging::tests2 - This is an error
+2025-12-26T10:41:18.454255404+07:00 WARN belajar_rust_logging::tests2 - This is a warning
+2025-12-26T10:41:29.770641173+07:00 ERROR belajar_rust_logging::tests2 - This is an error
+2025-12-26T10:41:29.770784046+07:00 WARN belajar_rust_logging::tests2 - This is a warning

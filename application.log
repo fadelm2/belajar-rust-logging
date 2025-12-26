@@ -1,0 +1,2 @@
+2025-12-26T10:41:29.770747976+07:00 ERROR belajar_rust_logging::tests2 - This is an error
+2025-12-26T10:41:29.770805757+07:00 WARN belajar_rust_logging::tests2 - This is a warning
